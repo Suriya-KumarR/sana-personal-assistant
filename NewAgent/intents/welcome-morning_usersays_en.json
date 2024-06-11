@@ -1,0 +1,69 @@
+[
+  {
+    "id": "e5f1f539-49e6-41e7-b38e-fb81d25d5ff5",
+    "data": [
+      {
+        "text": "Morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bba987be-9094-4f82-8bff-ba62c7f700bc",
+    "data": [
+      {
+        "text": "Sana",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Good",
+        "meta": "@Mood",
+        "alias": "mood",
+        "userDefined": false
+      },
+      {
+        "text": " morning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a013bbc6-a63c-49e8-a382-7ae925cde36e",
+    "data": [
+      {
+        "text": "Good",
+        "meta": "@Mood",
+        "alias": "mood",
+        "userDefined": false
+      },
+      {
+        "text": " morning, ",
+        "userDefined": false
+      },
+      {
+        "text": "Sana",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

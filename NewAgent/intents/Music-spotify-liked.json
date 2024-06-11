@@ -1,0 +1,40 @@
+{
+  "id": "9fd6663c-5124-4e6d-aaa3-be87a9521357",
+  "parentId": "bfa52543-b74e-4cb8-acea-d41c74befe2a",
+  "rootParentId": "bfa52543-b74e-4cb8-acea-d41c74befe2a",
+  "name": "Music-spotify-liked",
+  "auto": true,
+  "contexts": [
+    "music",
+    "Music-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Music.Music-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh!! Good choice. Person of culture I see."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e25c1f08-81e9-41c7-a7b1-cf074b160bbf",
+    "data": [
+      {
+        "text": "Play something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efd43593-ec61-4efa-a50d-20170d158f13",
+    "data": [
+      {
+        "text": "Play me some music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf171542-b83d-4b94-b1c0-ba6587df25a6",
+    "data": [
+      {
+        "text": "I\u0027m in the mood for some music",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9365917-1ed6-40b4-821a-52f99639a348",
+    "data": [
+      {
+        "text": "I\u0027m at the gym",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

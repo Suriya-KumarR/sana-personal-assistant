@@ -1,0 +1,40 @@
+{
+  "id": "7249e319-b0c1-4409-9131-70f23fb2c1bf",
+  "parentId": "31ae90d8-dbf1-48d0-8d7e-48a7e82acc71",
+  "rootParentId": "31ae90d8-dbf1-48d0-8d7e-48a7e82acc71",
+  "name": "I\u0027m not doing good - yes",
+  "auto": true,
+  "contexts": [
+    "Imnotdoinggood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Imnotdoinggood.Imnotdoinggood-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Call Su"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

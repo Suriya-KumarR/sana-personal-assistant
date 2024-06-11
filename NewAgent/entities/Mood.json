@@ -1,0 +1,9 @@
+{
+  "id": "4cd5f987-19c2-442a-9ae6-818d2c1fd158",
+  "name": "Mood",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

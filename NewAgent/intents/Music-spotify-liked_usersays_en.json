@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a4d43955-5b09-4908-8623-48bcdc67f1ca",
+    "data": [
+      {
+        "text": "Play liked songs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "662d1d2a-ada8-418c-bdc8-ba55efd67c7b",
+    "data": [
+      {
+        "text": "Play my liked songs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "434e8189-f4db-4003-b997-152c56b2475d",
+    "data": [
+      {
+        "text": "Play my liked songs on spotify",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
