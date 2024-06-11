@@ -2,7 +2,7 @@
 
 This project demonstrates how to create an AI assistant using Dialogflow and a FastAPI backend. The assistant captures intents from Dialogflow and interacts with the various API's (such as Spotify and OpenWeather) to fulfil its tasks.
 
-![image](https://github.com/suriyakumar99/sana-personal-assistant/assets/68340831/bfc27486-90f7-41d1-8fab-bc9a8659d9ab)
+![338748687-bfc27486-90f7-41d1-8fab-bc9a8659d9ab](https://github.com/suriyakumar99/sana-personal-assistant/assets/68340831/75c7524e-b1ad-47e1-979b-f351206f6821)
 
 ## Project Structure
 
